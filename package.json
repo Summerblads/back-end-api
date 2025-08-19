@@ -1,5 +1,5 @@
 {
-  "name": "NarraCine",
+  "name": "narracine",
   "version": "1.0.0",
   "description": "O NarraCine tem como função levar a filmografia acessível a várias pessoas que não compreendem muito sobre o universo cinematrográfico.",
   "main": "server.js",
