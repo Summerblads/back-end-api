@@ -42,8 +42,8 @@ app.get("/", async (req, res) => {
   }
 
   res.json({
-    message: "API para tecido",    
-    author: "Cristiane Martins Silva",
+    message: "API para funções de menu",    
+    author: "Gabriel Dias Santos Silva",
     statusBD: dbStatus,              
   });
 });
